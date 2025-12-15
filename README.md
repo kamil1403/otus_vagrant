@@ -5,7 +5,7 @@
 ## ![Lesson](https://img.shields.io/badge/Lesson-otus__vagrant-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-15.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
 ### 📌 Задание
-1. Обновить ядро ОС (AlmaLinux 9) до актуальной версии `mainline`.
+1. Обновить ядро ОС (AlmaLinux 9) до актуальной версии.
 
 ### ✅ Результат
 - [x] Ядро обновлено до версии **6.18.1**. Результат см. на скриншоте 🖼️ ["kernel_update.png"](https://github.com/kamil1403/otus_vagrant/blob/main/screenshots/otus_vagrant_1.png)
