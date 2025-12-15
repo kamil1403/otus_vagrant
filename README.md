@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/AlmaLinux_OS_logo.svg/800px-AlmaLinux_OS_logo.svg.png" alt="AlmaLinux Banner" width="30%">
-</p>
+</p> 
 
 ## ![Lesson](https://img.shields.io/badge/Lesson-otus__vagrant-0A84FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-15.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
